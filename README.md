@@ -1,5 +1,5 @@
-<img width="588" height="566" alt="image" src="https://github.com/user-attachments/assets/57aa8e3a-46ca-40f2-841f-d8d55b22619c" />
-Sơ đồ ERD trình bày cơ sở dữ liệu
+<img width="588" height="566" alt="image" src="https://github.com/user-attachments/assets/57aa8e3a-46ca-40f2-841f-d8d55b22619c" />  <br>
+Sơ đồ ERD trình bày cơ sở dữ liệu<br>
 1. Hệ thống Người dùng & Phân quyền
 tbl_user & tbl_role: Quản lý thông tin định danh và phân quyền người dùng thông qua bảng trung gian tbl_user_role (quan hệ N-N).
 
