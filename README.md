@@ -3,7 +3,6 @@ Sơ đồ ERD trình bày cơ sở dữ liệu<br>
 1. Hệ thống Người dùng & Phân quyền
 tbl_user & tbl_role: Quản lý thông tin định danh và phân quyền người dùng thông qua bảng trung gian tbl_user_role (quan hệ N-N).
 
-Audit Fields: Tất cả các bảng chính đều tích hợp create_by và update_by liên kết trực tiếp với tbl_user để theo dõi lịch sử tác động dữ liệu.
 
 2. Danh mục & Sản phẩm 
 tbl_category: Phân loại sản phẩm đa cấp.
